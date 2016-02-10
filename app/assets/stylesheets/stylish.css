@@ -6,10 +6,10 @@ header {
 }
 
 nav {
-    line-height:30px;
+  line-height:30px;
+  display: inline-block;
   background-color:#eeeeee;
-  width:200px;
-  float:left;
+  text-align: center;
   padding:5px;
 }
 
