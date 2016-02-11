@@ -1,4 +1,5 @@
 header {
+  font-family: "cormorantlight";
   background-color:black;
   color:white;
   text-align:center;
@@ -6,15 +7,15 @@ header {
 }
 
 nav {
+  font-family: "aller_lightregular";
   line-height:30px;
-  display: inline-block;
   background-color:#eeeeee;
   text-align: center;
   padding:5px;
 }
 
 footer {
-  background-color:black;
+  background-color:#DC143C;
   color:white;
   text-align:center;
   padding:5px;
