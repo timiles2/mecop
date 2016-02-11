@@ -15,8 +15,15 @@ nav {
 }
 
 footer {
+  font-family: "aller_lightregular";
   background-color:#DC143C;
   color:white;
   text-align:center;
   padding:5px;
+}
+h1, h2 {
+  font-family: "cormorantregular";
+}
+p {
+  font-family: "aller_lightregular";
 }
