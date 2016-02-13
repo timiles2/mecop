@@ -1,16 +1,16 @@
-header {
-  font-family: "cormorantlight";
-  background-color:black;
-  color:white;
-  text-align:center;
-  padding:5px;
-}
-
 nav {
   font-family: "aller_lightregular";
   line-height:30px;
   background-color:#eeeeee;
   text-align: center;
+  padding:5px;
+}
+
+header {
+  font-family: "cormorantlight";
+  background-color:black;
+  color:white;
+  text-align:center;
   padding:5px;
 }
 
