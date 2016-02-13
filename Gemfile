@@ -55,5 +55,6 @@ group :development do
   gem 'yaml_db'
 #postgres
 #  gem 'pg'
+  gem 'rails_12factor'
 end
 
