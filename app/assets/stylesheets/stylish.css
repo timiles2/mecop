@@ -27,3 +27,8 @@ h1, h2 {
 p {
   font-family: "aller_lightregular";
 }
+
+a.ul {
+  text-decoration:none;
+  color:white;
+}
