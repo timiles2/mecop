@@ -16,14 +16,20 @@ header {
 
 footer {
   font-family: "aller_lightregular";
-  background-color:#DC143C;
+  background-color:rgb(128, 0, 0);
   color:white;
   text-align:center;
   padding:5px;
 }
+
 h1, h2 {
-  font-family: "cormorantregular";
+  font-family: "cormorantlight";
 }
+
+h1.head, h2.head {
+  font-family: "cormorantlight";
+}
+
 p {
   font-family: "aller_lightregular";
 }
@@ -31,4 +37,8 @@ p {
 a.ul {
   text-decoration:none;
   color:white;
+}
+
+h2.sans {
+  font-family: "cormorantlight";
 }

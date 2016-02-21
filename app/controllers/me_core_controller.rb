@@ -26,4 +26,8 @@ class MeCoreController < ApplicationController
   def documents
     @title = "Documents"
   end
+  
+  def updates
+    @title = "Updates"
+  end
 end

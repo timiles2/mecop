@@ -1,7 +1,7 @@
 module ApplicationHelper
    #Return a title on a per-page basis
   def title
-    base_title = "MECOP 2017 Senior Project"
+    base_title = "Project Pinebox"
     if @title.nil?
       base_title
     else
