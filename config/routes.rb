@@ -12,6 +12,8 @@ Rails.application.routes.draw do
   match '/schedule' => 'me_core#schedule', via: :get
 
   match '/documents' => 'me_core#documents', via: :get
+  
+  match '/updates' => 'me_core#updates', via: :get
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
